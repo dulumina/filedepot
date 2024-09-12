@@ -23,11 +23,11 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "bluebird": "^3.5.1",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.3",
     "cors": "^2.8.4",
     "debug": "^2.6.9",
     "dotenv": "^2.0.0",
-    "express": "^4.16.3",
+    "express": "^4.21.0",
     "filedepot-models": "^1.0.6",
     "fs-extra": "^4.0.3",
     "helmet": "^3.13.0",
